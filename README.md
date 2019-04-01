@@ -1,1 +1,1 @@
-# NGO_PROJECT
+Project developed under ACM CSR.

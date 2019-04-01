@@ -1,0 +1,84 @@
+.button {
+    background-color: #FFA500;
+    border: #FFA500;
+    color: white;
+    padding: 8px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 2px;
+    cursor: pointer;    
+    border-radius: 50px;
+	 font-family:"Roboto", sans-serif;
+}
+.button:hover {background:#FF8C00;}
+.button2 {
+    background-color: #FF8C00;
+    color: white;
+    padding: 8px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer; 
+    border-radius: 50px;
+	border: 2px solid #c19a6b;
+}
+.button2:hover {background:gold;}
+.hero-image {
+  background-image: url("back3.png");
+   opacity:50%;
+  height: 360px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: dynamic;
+  
+}
+body {
+  margin: 0;
+}
+.hero-text {
+  text-align: center-left;
+  
+  position: absolute;
+  top: 36%;
+  left: 33%;
+  transform: translate(-50%, -50%);
+  color: white;
+ 
+  
+   
+	
+}
+.button1 {
+    background-color: #D3D3D3;
+    border: none;
+    text-align: center;
+    color: black;
+    font-size: 16px;
+	 border-radius: 10px;
+}
+.button1:hover {background:#c19a6b;}
+#hun {
+    float: left;
+    width: 27%;
+    height: 225px;
+    padding: 20px;
+}
+#fun {
+    float: left;
+    padding: 20px;
+    width: 31%;
+    height: 225px;
+}
+.form {
+    position: relative;
+	background: rgba(5,35,175,0.4);
+	max-width: 360px;
+	margin: 0 auto 100px;
+	padding: 45px;
+	text-align: center;
+	}
